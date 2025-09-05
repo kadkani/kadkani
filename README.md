@@ -18,6 +18,9 @@
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
         <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png"></code>
+        <code><img height="20" src="https://img.favpng.com/14/9/25/javascript-logo-png-favpng-pz50Na6k8pMjVYViv9nF9bVtm.jpg"></code>
+        <code><img height="20" src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png"></code>
+        <code><img height="20" src="https://img.favpng.com/6/21/11/autocad-computer-icons-autodesk-logo-adobe-illustrator-png-favpng-jLKbbcBBjFNgEjAkirkGpkibm.jpg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
